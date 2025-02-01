@@ -9,10 +9,16 @@
       }
       .texto1 {
         color: #ffffff ;
-      justify-content: center;
-      align-items: center;
-      
+               
       }
+      a {
+            padding: 0px 20px;
+            font-size: 30px;
+            background-color: #d3d3d3;
+            color: black;
+          }
     </style>
 </body>
 <a href="https://evellynborgeslopes1.github.io/">Voltar</a>
+<a href="Animes"> Animes</a>
+<a href="Manga"> Mangá</a>

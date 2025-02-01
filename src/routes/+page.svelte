@@ -1,7 +1,9 @@
 <div class="titulo">
 <h1>bem-vindo ao meu BLOG</h1>
 </div>
-<a href="/Inicio"> Inicio</a>
+<a href="Inicio"> Inicio</a>
+<a href="Animes"> Animes</a>
+<a href="Manga"> Mangá</a>
     <body>
         <style>
           body {
@@ -9,6 +11,15 @@
           }
           .titulo {
             color: #ffffff ;
+            font-size: 50px;
+            margin: 0;
+            text-align: center;
+          }  
+          a {
+            padding: 0px 20px;
+            font-size: 30px;
+            background-color: #d3d3d3;
+            color: black;
           }
         </style>
     </body>
