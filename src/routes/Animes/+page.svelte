@@ -1,4 +1,4 @@
-<a href="Inicio">Inicio</a>
+<a href="Inicio">Início</a>
 <a href="Manga"> Mangá</a>
 <a href="https://evellynborgeslopes1.github.io/">Voltar</a>
 

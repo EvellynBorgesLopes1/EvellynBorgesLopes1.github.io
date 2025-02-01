@@ -1,8 +1,8 @@
-<a href="Inicio"> Inicio</a>
+<a href="Inicio"> Início</a>
 <a href="Animes"> Animes</a>
 <a href="Manga"> Mangá</a>
 <div class="titulo">
-<h1>bem-vindo ao meu BLOG</h1>
+<h1>Bem-vindo ao meu BLOG</h1>
 </div>
 
     <body>
